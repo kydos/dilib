@@ -1,0 +1,1 @@
+export DYLD_LIBRARY_PATH=$PWD/local/lib:$DYLD_LIBRARY_PATH 

@@ -26,3 +26,21 @@
 *.exe
 *.out
 *.app
+
+
+# CMake stuff
+cmake_install.cmake
+install_manifest.txt
+Makefile
+CMakeCache.txt
+CMakeFiles
+
+src/cmake_install.cmake
+src/install_manifest.txt
+src/Makefile
+src/CMakeCache.txt
+src/CMakeFiles
+
+# Local installation
+local
+
